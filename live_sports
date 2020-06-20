@@ -15,4 +15,6 @@ https://cdnx.dailysport.pw/1/1.m3u8
 
 # RTPA
 
-https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/chunklist_b1500000.m3u8
+stream RTPA {
+  url playlist:https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/chunklist_b1500000.m3u8;
+}
