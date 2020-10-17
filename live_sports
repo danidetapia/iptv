@@ -4,34 +4,38 @@
 https://storage.googleapis.com/dailst1/1/1.m3u8
 
 #EXTINF:0,Canal 1
-https://g.troll.network/1/1.m3u8
+https://storage.googleapis.com/dailst1/1/1.m3u8
 
 #EXTINF:0,Canal 2
-https://cdk.dailysportlist.xyz/2/2.m3u8
+https://storage.googleapis.com/dailst1/2/2.m3u8
 
 #EXTINF:0,Canal 3
-https://cdk.dailysportlist.xyz/3/3.m3u8
+https://storage.googleapis.com/dailst1/3/3.m3u8
 
 #EXTINF:0,Canal 4
-https://g.troll.network/4/4.m3u8
+https://storage.googleapis.com/dailst1/4/4.m3u8
 
 #EXTINF:0,Canal 5
-https://cdk.dailysportlist.xyz/5/5.m3u8
+https://storage.googleapis.com/dailst1/5/5.m3u8
 
 #EXTINF:0,Canal 6
-https://cdk.dailysportlist.xyz/6/6.m3u8
+https://storage.googleapis.com/dailst1/6/6.m3u8
 
 #EXTINF:0,Canal 7
-https://cdk.dailysportlist.xyz/7/7.m3u8
+https://storage.googleapis.com/dailst1/7/7.m3u8
 
 #EXTINF:0,Canal 8
-https://cdk.dailysportlist.xyz/8/8.m3u8
+https://storage.googleapis.com/dailst1/8/8.m3u8
 
 #EXTINF:0,Canal 9
-https://cdk.dailysportlist.xyz/9/9.m3u8
+https://storage.googleapis.com/dailst1/9/9.m3u8
 
 #EXTINF:0,Canal 10
-https://cdk.dailysportlist.xyz/10/10.m3u8
+https://storage.googleapis.com/dailst1/10/10.m3u8
 
 #EXTINF:0,Canal 11
-https://cdk.dailysportlist.xyz/11/11.m3u8
+https://storage.googleapis.com/dailst1/11/11.m3u8
+
+
+#EXTINF:0,Canal 12
+https://storage.googleapis.com/dailst1/12/12.m3u8
