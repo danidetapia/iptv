@@ -1,41 +1,51 @@
 # Ver Programacion en https://dailysport.pw/
 
-#EXTINF:0,Main Event OVD-RAY
-https://storage.googleapis.com/dailyseg1/15/15.m3u8
-
-#EXTINF:0,Canal 1
+#EXTINF:0,Main Clasico Opcion 1
 https://storage.googleapis.com/dailyseg1/1/1.m3u8
 
+#EXTINF:0,Main Clasico Opcion 2
+https://cdn.dailysport.pw/1/1.m3u8
+
+
+#EXTINF:0,Main Clasico Opcion 3 English
+https://cdn.dailysport.pw/2/2.m3u8
+
+
+#EXTINF:0,Main Clasico Opcion 4 Latin
+https://cdn.dailysport.pw/3/3.m3u8
+
+#EXTINF:0,Canal 1
+https://cdn.dailysport.pw/1/1.m3u8
+
 #EXTINF:0,Canal 2
-https://storage.googleapis.com/dailyseg1/2/2.m3u8
+https://cdn.dailysport.pw/2/2.m3u8
 
 #EXTINF:0,Canal 3
-https://storage.googleapis.com/dailyseg1/3/3.m3u8
+https://cdn.dailysport.pw/3/3.m3u8
 
 #EXTINF:0,Canal 4
-https://storage.googleapis.com/dailst1/4/4.m3u8
+https://cdn.dailysport.pw/4/4.m3u8
 
 #EXTINF:0,Canal 5
-https://storage.googleapis.com/dailst1/5/5.m3u8
+https://cdn.dailysport.pw/5/5.m3u8
 
 #EXTINF:0,Canal 6
-https://storage.googleapis.com/dailst1/6/6.m3u8
+https://cdn.dailysport.pw/6/6.m3u8
 
 #EXTINF:0,Canal 7
-https://storage.googleapis.com/dailst1/7/7.m3u8
+https://cdn.dailysport.pw/7/7.m3u8
 
 #EXTINF:0,Canal 8
-https://storage.googleapis.com/dailst1/8/8.m3u8
+https://cdn.dailysport.pw/8/8.m3u8
 
 #EXTINF:0,Canal 9
-https://storage.googleapis.com/dailst1/9/9.m3u8
+https://cdn.dailysport.pw/9/9.m3u8
 
 #EXTINF:0,Canal 10
-https://storage.googleapis.com/dailst1/10/10.m3u8
+https://cdn.dailysport.pw/10/10.m3u8
 
 #EXTINF:0,Canal 11
-https://storage.googleapis.com/dailst1/11/11.m3u8
-
+https://cdn.dailysport.pw/11/11.m3u8
 
 #EXTINF:0,Canal 12
-https://storage.googleapis.com/dailst1/12/12.m3u8
+https://cdn.dailysport.pw/12/12.m3u8
