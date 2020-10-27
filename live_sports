@@ -1,7 +1,13 @@
 # Ver Programacion en https://dailysport.pw/
 
-#EXTINF:0,Main Leganes Oviedo
-https://cdn2.dailysport.pw/22/22.m3u8
+#EXTINF:0,Main Madrid
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/37cbbcadd74c4829913703d94ff72f53/chunklist_b3692000.m3u8
+
+#EXTINF:0,Main Atletico
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/b131c7ccdd87481cb02de8f87f22e9b8/chunklist_b4628000.m3u8
+
+#EXTINF:0,Main Multi
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/37cbbcadd74c4829913703d94ff72f53/chunklist_b3692000.m3u8
 
 #EXTINF:0,Canal 1
 https://cdn2.dailysport.pw/1/1.m3u8
