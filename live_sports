@@ -1,46 +1,46 @@
 # Ver Programacion en https://dailysport.pw/
 
-#EXTINF:0,Main Madrid
-https://centurylink.mx.cdn.booyah.live/hls/210154/28764521.m3u8
+#EXTINF:0,Main Oviedo
+https://cdn.dailysport.pw/10/10.m3u8
 
-#EXTINF:0,Main Atletico
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/f4ee390237904457b66571dd25a08c11/chunklist_b3692000.m3u8
+#EXTINF:0,Main Barça
+https://cdn.dailysport.pw/1/1.m3u8
 
 #EXTINF:0,Main Multi
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/24d8aef9f7fe4d4c9bd8bd3c9f89c817/chunklist_b4628000.m3u8
+https://cdn.dailysport.pw/3/3.m3u8
 
 #EXTINF:0,Canal 1
-https://cdn2.dailysport.pw/1/1.m3u8
+https://cdn.dailysport.pw/1/1.m3u8
 
 #EXTINF:0,Canal 2
-https://cdn2.dailysport.pw/2/2.m3u8
+https://cdn.dailysport.pw/2/2.m3u8
 
 #EXTINF:0,Canal 3
-https://cdn2.dailysport.pw/3/3.m3u8
+https://cdn.dailysport.pw/3/3.m3u8
 
 #EXTINF:0,Canal 4
-https://cdn2.dailysport.pw/4/4.m3u8
+https://cdn.dailysport.pw/4/4.m3u8
 
 #EXTINF:0,Canal 5
-https://cdn2.dailysport.pw/5/5.m3u8
+https://cdn.dailysport.pw/5/5.m3u8
 
 #EXTINF:0,Canal 6
-https://cdn2.dailysport.pw/6/6.m3u8
+https://cdn.dailysport.pw/6/6.m3u8
 
 #EXTINF:0,Canal 7
-https://cdn2.dailysport.pw/7/7.m3u8
+https://cdn.dailysport.pw/7/7.m3u8
 
 #EXTINF:0,Canal 8
-https://cdn2.dailysport.pw/8/8.m3u8
+https://cdn.dailysport.pw/8/8.m3u8
 
 #EXTINF:0,Canal 9
-https://cdn2.dailysport.pw/9/9.m3u8
+https://cdn.dailysport.pw/9/9.m3u8
 
 #EXTINF:0,Canal 10
-https://cdn2.dailysport.pw/10/10.m3u8
+https://cdn.dailysport.pw/10/10.m3u8
 
 #EXTINF:0,Canal 11
-https://cdn2.dailysport.pw/11/11.m3u8
+https://cdn.dailysport.pw/11/11.m3u8
 
 #EXTINF:0,Canal 12
-https://cdn2.dailysport.pw/12/12.m3u8
+https://cdn.dailysport.pw/12/12.m3u8
