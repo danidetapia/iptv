@@ -1,43 +1,13 @@
-# Ver Programacion en https://dailysport.pw/
+# Ver Programacion en https://dailysport.live/
 
-#EXTINF:0,Canal EPL
-https://cdn2.dailysport.pw/epl1a/1.m3u8
+#EXTINF:0,Liga Santander
+https://daily-live.s3.eu-west-3.amazonaws.com/1/1.m3u8
 
-#EXTINF:0,Canal 1
-https://cdn2.dailysport.pw/1/1.m3u8
+#EXTINF:0,Liga Smart Bank
+https://daily-live.s3.eu-west-3.amazonaws.com/6/6.m3u8
 
-#EXTINF:0,Canal 2
-https://cdn2.dailysport.pw/2/2.m3u8
+#EXTINF:0,Moto GP
+https://daily-live.s3.eu-west-3.amazonaws.com/20a/20.m3u8
 
-#EXTINF:0,Canal 3
-https://cdn2.dailysport.pw/3/3.m3u8
-
-#EXTINF:0,Canal 4
-https://cdn2.dailysport.pw/4/4.m3u8
-
-#EXTINF:0,Canal 5
-https://cdn2.dailysport.pw/5/5.m3u8
-
-#EXTINF:0,Canal 6
-https://cdn2.dailysport.pw/6/6.m3u8
-
-#EXTINF:0,Canal 7
-https://cdn2.dailysport.pw/7/7.m3u8
-
-#EXTINF:0,Canal 8
-https://cdn2.dailysport.pw/8/8.m3u8
-
-#EXTINF:0,Canal 9
-https://cdn2.dailysport.pw/9/9.m3u8
-
-#EXTINF:0,Canal 10
-https://cdn2.dailysport.pw/10/10.m3u8
-
-#EXTINF:0,Canal 11
-https://cdn2.dailysport.pw/11/11.m3u8
-
-#EXTINF:0,Canal 12
-https://cdn2.dailysport.pw/12/12.m3u8
-
-#EXTINF:0,Canal 20
-https://cdn2.dailysport.pw/20/20.m3u8
+#EXTINF:0,Rugby y Tenis
+https://daily-live.s3.eu-west-3.amazonaws.com/15/5.m3u8
