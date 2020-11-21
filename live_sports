@@ -4,10 +4,4 @@
 https://cdn2.dailysport.live/1/1.m3u8
 
 #EXTINF:0,Liga Smart Bank
-https://daily-live.s3.eu-west-3.amazonaws.com/6/6.m3u8
-
-#EXTINF:0,Moto GP
-https://daily-live.s3.eu-west-3.amazonaws.com/20a/20.m3u8
-
-#EXTINF:0,Rugby y Tenis
-https://daily-live.s3.eu-west-3.amazonaws.com/15/5.m3u8
+https://cdn2.dailysport.live/6/6.m3u8
