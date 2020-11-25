@@ -1,13 +1,16 @@
 # Ver Programacion en https://dailysport.live/
 
 #EXTINF:0, Champions 1
-https://cdn3.dailysport.live/1/1.m3u8
+https://daily-live0.s3.eu-west-3.amazonaws.com/1/1.m3u8
 
 #EXTINF:0, Champions 2
-https://cdn3.dailysport.live/2/2.m3u8
+https://daily-live0.s3.eu-west-3.amazonaws.com/2c/2.m3u8
 
 #EXTINF:0, Champions 3
-https://cdn3.dailysport.live/3/3.m3u8
+https://daily-live0.s3.eu-west-3.amazonaws.com/3/3.m3u8
+
+#EXTINF:0, Champions 4
+https://daily-live0.s3.eu-west-3.amazonaws.com/4/4.m3u8
 
 #EXTINF:0,Liga Smart Bank
 https://daily-live0.s3.eu-west-3.amazonaws.com/20/20.m3u8
