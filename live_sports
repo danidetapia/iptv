@@ -1,7 +1,10 @@
 # Ver Programacion en https://dailysport.live/
 
-#EXTINF:0, Champions 1
+#EXTINF:0, Champions 1 HD
 https://daily-live0.s3.eu-west-3.amazonaws.com/1/1.m3u8
+
+#EXTINF:0, Champions 1 SD
+https://cdn5.dailysport.live/31/31.m3u8
 
 #EXTINF:0, Champions 2
 https://daily-live0.s3.eu-west-3.amazonaws.com/2c/2.m3u8
