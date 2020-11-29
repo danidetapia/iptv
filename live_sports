@@ -8,15 +8,3 @@ https://dailyspace.s3.eu-central-1.amazonaws.com/6/6.m3u8
 
 #EXTINF:0, Premier
 https://dailyspace.s3.eu-central-1.amazonaws.com/31/31.m3u8
-
-#EXTINF:0, Rugby 1
-https://dailyspace.s3.eu-central-1.amazonaws.com/15/15.m3u8
-
-#EXTINF:0, Rugby 2
-https://dailyspace.s3.eu-central-1.amazonaws.com/16/16.m3u8
-
-#EXTINF:0, F1
-https://dailyspace.s3.eu-central-1.amazonaws.com/10/10.m3u8
-
-#EXTINF:0, Boxeo
-https://cdn2.dailysportlist.xyz/12/12.m3u8
