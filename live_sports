@@ -1,25 +1,13 @@
 # Ver Programacion en https://dailysport.live/
 
-#EXTINF:0, Liga Santander
+#EXTINF:0, Primera
 
-https://dailysportasddsa.azureedge.net/LiveApp/streams/219439972166535664357402.m3u8
+https://bucketdaily0.s3.amazonaws.com/1/1.m3u8
 
-#EXTINF:0, Europa League 1
+#EXTINF:0, Segunda
 
-https://cdnx.dailysportlist.xyz/1/1.m3u8
+https://bucketdaily0.s3.amazonaws.com/15/15.m3u8
 
-#EXTINF:0, Europa League 2
+#EXTINF:0, Premier EN
 
-https://cdnx.dailysportlist.xyz/2/2.m3u8
-
-#EXTINF:0, Europa League 3
-
-https://cdnx.dailysportlist.xyz/3/3.m3u8
-
-#EXTINF:0, Europa League 4
-
-https://cdnx.dailysportlist.xyz/4/4.m3u8
-
-#EXTINF:0, Europa League 5
-
-https://cdnx.dailysportlist.xyz/5/5.m3u8
+https://bucketdaily0.s3.amazonaws.com/epl1/1.m3u8
