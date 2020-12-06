@@ -2,17 +2,17 @@
 
 #EXTINF:0, Primera
 
-https://bucketdaily0.s3.amazonaws.com/1/1.m3u8
+https://cdn.dailysportlist.xyz/1/1.m3u8
 
-#EXTINF:0, Segunda
+#EXTINF:0, Segunda 1
 
-https://bucketdaily0.s3.amazonaws.com/15/15.m3u8
+https://cdn.dailysportlist.xyz/7/7.m3u8
 
-#EXTINF:0, Premier EN
+#EXTINF:0, Segunda 2
 
-https://bucketdaily0.s3.amazonaws.com/epl1/1.m3u8
+https://cdn.dailysportlist.xyz/15/15.m3u8
 
 
-#EXTINF:0, Bundesliga
+#EXTINF:0, Premier
 
-https://bucketdaily0.s3.amazonaws.com/15/15.m3u8
+https://cdn.dailysportlist.xyz/4/4.m3u8
