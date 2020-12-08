@@ -1,18 +1,22 @@
 # Ver Programacion en https://dailysport.live/
 
-#EXTINF:0, Primera
+#EXTINF:0, Champions 1
 
 https://cdn.dailysportlist.xyz/1/1.m3u8
 
-#EXTINF:0, Segunda 1
+#EXTINF:0, Champions 2
 
-https://cdn.dailysportlist.xyz/7/7.m3u8
+https://cdn.dailysportlist.xyz/2/2.m3u8
 
-#EXTINF:0, Segunda 2
+#EXTINF:0, Champions 3
 
-https://cdn.dailysportlist.xyz/15/15.m3u8
+https://cdn.dailysportlist.xyz/3/3.m3u8
 
 
-#EXTINF:0, Premier
+#EXTINF:0, Champions 4
 
 https://cdn.dailysportlist.xyz/4/4.m3u8
+
+#EXTINF:0, Champions 5
+
+https://cdn.dailysportlist.xyz/5/5.m3u8
