@@ -7,3 +7,11 @@ https://storage.googleapis.com/dailycl4/1/1.m3u8
 #EXTINF:0, Liga Smartbank
 
 https://storage.googleapis.com/dailycl4/7/7.m3u8
+
+#EXTINF:0, Premier
+
+https://storage.googleapis.com/dailycl4/4/4.m3u8
+
+#EXTINF:0, F1
+
+https://storage.googleapis.com/dailycl4/10/10.m3u8
