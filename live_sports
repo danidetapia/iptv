@@ -2,12 +2,8 @@
 
 #EXTINF:0, Liga Santander
 
-https://dailycl4.s3-eu-west-1.amazonaws.com/1/1.m3u8
+https://storage.googleapis.com/dailycl5/1/1.m3u8
 
 #EXTINF:0, Premier
 
-https://dailycl4.s3-eu-west-1.amazonaws.com/4/4.m3u8
-
-#EXTINF:0, F1
-
-https://dailycl4.s3-eu-west-1.amazonaws.com/10/10.m3u8
+https://storage.googleapis.com/dailycl6/4/4.m3u8
