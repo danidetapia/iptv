@@ -1,5 +1,9 @@
 # Ver Programacion en https://dailysport.live/
 
-#EXTINF:0, Liga Smartbank
+#EXTINF:0, Liga Santander
 
-https://dailycl9.s3.eu-west-3.amazonaws.com/1/1.m3u8
+https://storage.googleapis.com/dailycl11/1/1.m3u8
+
+#EXTINF:0, Premier
+
+https://cdn1.dailysport.website/4/4.m3u8
