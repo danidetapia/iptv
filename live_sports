@@ -2,7 +2,21 @@
 
 #EXTINF:0, Liga Santander
 
-https://storage.googleapis.com/dailycl11/1b/1.m3u8
+https://cdnx.dailysport.website/1c/1.m3u8
+
+#EXTINF:0, Liga Santander SD
+
+https://cdnx.dailysport.website/111/111.m3u8
+
+#EXTINF:0, Liga Santander EN
+
+https://cdnx.dailysport.website/2/2.m3u8
+
+
+#EXTINF:0, Liga Santander Lat
+
+https://cdnx.dailysport.website/3/3.m3u8
+
 
 #EXTINF:0, Premier
 
