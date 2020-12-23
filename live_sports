@@ -2,12 +2,16 @@
 
 #EXTINF:0, Liga Santander 1
 
-https://storage.googleapis.com/dailycl14/1b/1.m3u8
+https://storage.googleapis.com/dailycl14/1c/1.m3u8
 
 #EXTINF:0, Liga Santander 2
 
+https://storage.googleapis.com/dailycl14/11/11.m3u8
+
+#EXTINF:0, Liga Santander 3
+
 https://storage.googleapis.com/dailycl14/2/2.m3u8
 
-#EXTINF:0, Premier
+#EXTINF:0, Liga Santander 4
 
-https://storage.googleapis.com/dailycl14/e1/1.m3u8
+https://storage.googleapis.com/dailycl14/3/3.m3u8
