@@ -1,13 +1,10 @@
 # Ver Programacion en https://dailysport.live/
 
 #EXTINF:0, Liga Santander HD
-
-https://dailyb0.s3.amazonaws.com/1/1.m3u8
+https://dailysb3.s3.amazonaws.com/1/1.m3u8
 
 #EXTINF:0, Liga Santander SD
-
-https://dailyb0.s3.amazonaws.com/11/11.m3u8
+https://dailysb3.s3.amazonaws.com/11/11.m3u8
 
 #EXTINF:0, Premier
-
-https://dailyb0.s3.amazonaws.com/e1/1.m3u8
+https://dailysb3.s3.amazonaws.com/e1/1.m3u8
