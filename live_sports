@@ -1,13 +1,7 @@
 # Ver Programacion en https://dailysport.live/
 
-#EXTINF:0, Liga Santander 2
-https://dailysportbucket0.s3.eu-west-1.amazonaws.com/1/1.m3u8
+#EXTINF:0, Liga Santander
+https://dailysportbucket3.s3.eu-west-3.amazonaws.com/1/1.m3u8
 
-#EXTINF:0, Liga Santander 1
-https://dailysportbucket1.s3.amazonaws.com/1/1.m3u8
-
-#EXTINF:0, Liga Santander 3
-https://dailysportbucket1.s3.amazonaws.com/12/12.m3u8
-
-#EXTINF:0, EFL Cup
-https://dailysportbucket0.s3.eu-west-1.amazonaws.com/4/4.m3u8
+#EXTINF:0, FA Cup
+https://dailysportbucket3.s3.eu-west-3.amazonaws.com/4/4.m3u8
