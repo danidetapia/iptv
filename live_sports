@@ -1,4 +1,10 @@
 # Ver Programacion en https://dailysport.live/
 
-#EXTINF:0, Liga Santander
-https://dailysportbucket5.s3.eu-west-2.amazonaws.com/1/1.m3u8
+#EXTINF:0, Supercopa ES
+https://dailysportbucket5.s3.eu-west-2.amazonaws.com/15/15.m3u8
+
+#EXTINF:0, Supercopa EN
+https://dailysportbucket5.s3.eu-west-2.amazonaws.com/2/2.m3u8
+
+#EXTINF:0, Premier
+https://dailysportbucket5.s3.eu-west-2.amazonaws.com/e1/1.m3u8
