@@ -1,16 +1,16 @@
 # Ver Programacion en https://dailysport.live/
 
 #EXTINF:0, Copa 1
-https://dailysportbucket7.s3.eu-west-2.amazonaws.com/2/2.m3u8
+https://dailysportbucket7.s3.eu-west-3.amazonaws.com/2/2.m3u8
 
 #EXTINF:0, Copa 2
 https://dailysportbucket7.s3.eu-west-2.amazonaws.com/1/1.m3u8
 
 #EXTINF:0, Supercopa 1
-https://dailysportbucket7.s3.eu-west-2.amazonaws.com/15/15.m3u8
+https://dailysportbucket8.s3.eu-west-3.amazonaws.com/15/15.m3u8
 
 #EXTINF:0, Supercopa 2
 https://dailysportbucket7.s3.eu-west-2.amazonaws.com/17/17.m3u8
 
 #EXTINF:0, Premier
-https://dailysportbucket7.s3.eu-west-2.amazonaws.com/4/4.m3u8
+https://dailysportbucket7.s3.eu-west-3.amazonaws.com/4/4.m3u8
