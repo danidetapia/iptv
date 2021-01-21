@@ -1,8 +1,7 @@
 # Ver Programacion en https://dailysport.surf/
 
 #EXTINF:0, Copa
-https://dailysportbucket11.s3.eu-west-3.amazonaws.com/4/4.m3u8
-
+https://dailysportbucket14.s3.eu-west-3.amazonaws.com/4/4.m3u8
 
 #EXTINF:0, La Liga
 https://dailysportbucket11.s3.eu-west-3.amazonaws.com/1/1.m3u8
