@@ -1,13 +1,7 @@
 # Ver Programacion en https://dailysport.surf/
 
-#EXTINF:0, La Liga HD
-https://dailysportbucket22.s3.eu-west-2.amazonaws.com/1b/1.m3u8
+#EXTINF:0, Copa 1
+https://dailysportbucket30.s3.eu-west-3.amazonaws.com/1a/1.m3u8
 
-#EXTINF:0, La Liga SD
-https://dailysportbucket23.s3.eu-west-3.amazonaws.com/13/13.m3u8
-
-#EXTINF:0, La Liga Lat
-https://dailysportbucket23.s3.eu-west-3.amazonaws.com/3/3.m3u8
-
-#EXTINF:0, La Liga Eng
-https://dailysportbucket23.s3.eu-west-3.amazonaws.com/2/2.m3u8
+#EXTINF:0, Copa 2
+https://dailysportbucket30.s3.eu-west-3.amazonaws.com/11/11.m3u8
