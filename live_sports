@@ -1,22 +1,4 @@
 # Ver Programacion en https://dailysport.surf/
 
-#EXTINF:0, La Liga 1
-https://dailysportbucket40.s3.eu-west-3.amazonaws.com/1/1.m3u8
-
-#EXTINF:0, La Liga 2
-https://dailysportbucket40.s3.eu-west-3.amazonaws.com/2/2.m3u8
-
-#EXTINF:0, La Liga 3
-https://dailysportbucket40.s3.eu-west-3.amazonaws.com/3/3.m3u8
-
-#EXTINF:0, La Liga 4
-https://dailysportbucket40.s3.eu-west-3.amazonaws.com/13/13.m3u8
-
-#EXTINF:0, Segunda
-https://dailysportbucket40.s3.eu-west-3.amazonaws.com/7/7.m3u8
-
-#EXTINF:0, Premier 1
-https://dailysportbucket40.s3.eu-west-3.amazonaws.com/10/10.m3u8
-
-#EXTINF:0, Premier 2
-https://dailysportbucket41.s3.eu-west-2.amazonaws.com/e1/1.m3u8
+#EXTINF:0, La Liga
+https://dailysportbucket50.s3.eu-west-3.amazonaws.com/1/1.m3u8
