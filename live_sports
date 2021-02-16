@@ -1,7 +1,7 @@
 
 
 #EXTINF:0, Champions 1
-fb1c0734d98fad11918433e1d9eb7d57a8a16b5b
+http://127.0.0.1:6878/ace/getstream?id=fb1c0734d98fad11918433e1d9eb7d57a8a16b5b
 
 #EXTINF:0, Champions 2
-110a98435b68bee9037e7a34aa107f1c1d7bd07f
+http://127.0.0.1:6878/ace/getstream?id=110a98435b68bee9037e7a34aa107f1c1d7bd07f
