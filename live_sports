@@ -1,22 +1,13 @@
 
 
-#EXTINF:0, La Liga
-https://dailysportbucket95.s3.eu-west-2.amazonaws.com/1/1.m3u8
+#EXTINF:0, La Liga 1
+http://77.247.109.116/hls/ovostreams12.m3u8
 
-#EXTINF:0, Champions 1
-https://dailysportbucket94.s3.eu-west-3.amazonaws.com/8/8.m3u8
+#EXTINF:0, La Liga 2
+http://tecnotv.club/ggh/smtv.php?c=17_&f=.m3u8
 
-#EXTINF:0, Champions 2
-https://dailysportbucket95.s3.eu-west-2.amazonaws.com/e2/2.m3u8
+#EXTINF:0, La Liga 3
+https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/606dfa28d29f472e867ca38afe54b31c/index5_1.m3u8
 
-#EXTINF:0, Champions 3
-https://dailysportbucket94.s3.eu-west-3.amazonaws.com/7/7.m3u8
-
-#EXTINF:0, Segunda
-https://dailysportbucket94.s3.eu-west-3.amazonaws.com/13/13.m3u8
-
-#EXTINF:0, Premier 1
-https://dailysportbucket94.s3.eu-west-3.amazonaws.com/10/10.m3u8
-
-#EXTINF:0, Premier 2
-https://dailysportbucket95.s3.eu-west-2.amazonaws.com/e1/1.m3u8
+#EXTINF:0, La Liga 4
+https://d3f84snkr7axnb.cloudfront.net/out/v1/d8ee80dc120f4ef897bae853b3d76d4c/index_3.m3u8
