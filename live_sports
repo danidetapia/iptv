@@ -1,4 +1,11 @@
 
 
 #EXTINF:0, La Liga
-https://dailylast0.s3.eu-west-3.amazonaws.com/1/1.m3u8?Manujaz
+https://dailylast0.s3.eu-west-3.amazonaws.com/1/1.m3u8
+
+#EXTINF:0, Premier 1
+https://dailylast0.s3.eu-west-3.amazonaws.com/10/10.m3u8
+
+#EXTINF:0, Premier 2
+
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
