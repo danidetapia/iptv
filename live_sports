@@ -1,11 +1,4 @@
 
 
-#EXTINF:0, La Liga
-https://dailylast0.s3.eu-west-3.amazonaws.com/1/1.m3u8
-
-#EXTINF:0, Premier 1
-https://dailylast0.s3.eu-west-3.amazonaws.com/10/10.m3u8
-
-#EXTINF:0, Premier 2
-
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0, Xempions
+https://live.castamp.com:443/live/LAUXILIAR/chunklist.m3u8?h=_e7yEnler9_6EU81wCG3iQ&e=1614164070&u=fea4ef9c57f686071bf12a0a5366b6da.m3u8
