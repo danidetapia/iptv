@@ -1,7 +1,11 @@
 
 
 #EXTINF:0, La Liga 1
-http://cdn1-uk.ott.pink:8081/catena-8-99-streamer-mlaligahd/video.m3u8?token=137026642D6C5C5C638A55FBAD3FDE91
+http://77.247.109.111/hls/A1.m3u8?Mmt
+
 
 #EXTINF:0, La Liga 2
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
+http://89.248.170.107:8081/hls/S-4_720p/playlist.m3u8?Mmt
+
+#EXTINF:0, La Liga 3
+http://31.220.41.86:8081/live/es-movistarlaliga.stream/playlist.m3u8?Chk
