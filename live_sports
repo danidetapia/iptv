@@ -1,19 +1,13 @@
 
 
-#EXTINF:0, Champions 1
-https://dai.google.com/linear/hls/event/bQ2JGGVzTpqfCfcTZWay1Q/master.m3u8
+#EXTINF:0, La Liga 1
 
-#EXTINF:0, Champions 2
-https://d2hunpu5n9su8p.cloudfront.net/out/v1/0575d615f0eb43abae9f7ca636583d5a/index.m3u8?per
+http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8
 
-#EXTINF:0, Champions 3
-http://31.220.41.86:8081/live/es-laligatvbar.stream/playlist.m3u8?per
+#EXTINF:0, La Liga 2
 
-#EXTINF:0, Champions 4
-http://38.18.237.42:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8?per
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/c24f15ufw5.m3u8?s=zhPjls3_8Ptn1xu-npn16w&e=1615415872
 
-#EXTINF:0, Champions 5
-https://bit.ly/3qtFM1P?per
+#EXTINF:0, La Liga 3
 
-#EXTINF:0, Champions 6
-https://bit.ly/3btlyRI?per
+http://31.220.41.86:8081/live/es-movistarlaliga.stream/playlist.m3u8
