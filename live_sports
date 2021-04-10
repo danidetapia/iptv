@@ -2,4 +2,10 @@
 
 #EXTINF:0, La Liga 1
 
-https://a24m9h4369execu7.ezcdn383.net:8443/hls/cocxkxsf.m3u8?s=t6hZYEiGRWV2M3oSuUL_BQ&e=1615771752
+http://31.220.41.90:8081/live/bein-laliga.stream/playlist.m3u8
+
+
+
+#EXTINF:0, La Liga 2
+
+http://23.237.78.54/live-1000/244/playlist.m3u8
